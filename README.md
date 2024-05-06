@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **smicro-services professional class**
 
-- 👨‍💻 All of my projects are available at [https://aliboucoding.com/courses](https://aliboucoding.com/courses)
+- 👨‍💻 All of my projects are available at [https://louragini.com/courses](https://louragini.com/courses)
 
-- 📝 I regularly write articles on [https://aliboucoding.com](https://aliboucoding.com)
+- 📝 I regularly write articles on [https://louragini.com](https://louragini.com)
 
 - 💬 Ask me about **Spring, Java, Docker, Kubernetes, AWS, Angular, Testing, ....**
 
